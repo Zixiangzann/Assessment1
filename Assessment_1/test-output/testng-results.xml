@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-27T12:12:53 SGT" name="Default suite" finished-at="2021-09-27T12:13:52 SGT" duration-ms="58968">
+    <groups>
+    </groups>
+    <test started-at="2021-09-27T12:12:53 SGT" name="Default test" finished-at="2021-09-27T12:13:52 SGT" duration-ms="58968">
+      <class name="test.TC01_getListOfTypesOfAParticularProduct">
+        <test-method signature="getList(java.lang.String)[pri:0, instance:test.TC01_getListOfTypesOfAParticularProduct@120f102b]" started-at="2021-09-27T12:12:53 SGT" name="getList" description="Get the list of types of a particular product." finished-at="2021-09-27T12:13:52 SGT" duration-ms="58909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getList -->
+      </class> <!-- test.TC01_getListOfTypesOfAParticularProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
